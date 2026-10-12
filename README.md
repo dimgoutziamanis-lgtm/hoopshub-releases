@@ -20,7 +20,8 @@ whole training routine in one place.
   weekly, and keep a training log.
 - **Diet**: plan meals with calories and protein.
 - **Excel import**: load workout programs and meal plans from `.xlsx`
-  spreadsheets.
+  spreadsheets. See [how to structure your spreadsheet](docs/excel-import.md),
+  with ready-to-fill templates.
 
 ## Install on Android
 
