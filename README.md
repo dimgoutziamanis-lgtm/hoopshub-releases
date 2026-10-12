@@ -41,7 +41,7 @@ Follow the step-by-step guide: **[Installing on iPhone with SideStore](docs/ios-
 
 ## Notes
 
-- HoopsHub is a personal project, provided as-is.
+- HoopsHub is a personal project.
 - All data stays on your phone. The camera is only used for the shot counter,
   and detection runs on the device.
 - This repository only hosts downloads. Found a problem? Open an issue.
